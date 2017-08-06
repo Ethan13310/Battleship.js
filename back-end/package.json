@@ -1,0 +1,24 @@
+{
+  "name": "battleship.js",
+  "version": "1.0.1",
+  "description": "A basic battleship game",
+  "main": "main.js",
+  "dependencies": {
+    "socket.io": "^1.4.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethan13310/Battleship.js.git"
+  },
+  "keywords": [
+    "battleship",
+    "game"
+  ],
+  "author": "Ethan Margaillan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ethan13310/Battleship.js/issues"
+  },
+  "homepage": "https://github.com/Ethan13310/Battleship.js#readme"
+}
